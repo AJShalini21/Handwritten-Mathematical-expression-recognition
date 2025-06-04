@@ -1,5 +1,3 @@
-# Handwritten-Mathematical-expression-recognition
-
 # Handwritten Arithmetic Expression Recognition
 
 This project implements a complete system to recognize and evaluate handwritten arithmetic expressions in real time. It combines image preprocessing, symbol classification using deep learning, sequence recognition, expression parsing, and final computation.
@@ -10,6 +8,8 @@ This project implements a complete system to recognize and evaluate handwritten 
 - Symbol recognition using CNN, MobileNetV2, and ResNet
 - Sequence modeling with contour detection and symbol classification
 - Secure expression parsing and evaluation
+
+  ![Alt text](images/output.png)
 
 ## Models Used
 
