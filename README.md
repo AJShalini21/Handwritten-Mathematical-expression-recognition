@@ -35,7 +35,7 @@ This project implements a complete system to recognize and evaluate handwritten 
 - Precision, Recall, F1-Score
 - Expression Recognition Accuracy
 
-  ![Alt text](https://example.com/Comparison.png)
+  ![Alt text](images/Comparison.png)
 
 ## Future Work
 
